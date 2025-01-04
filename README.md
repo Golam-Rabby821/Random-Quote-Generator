@@ -15,8 +15,24 @@ A responsive Random Quote Generator built with **React** and **Tailwind CSS**, f
 - Tailwind CSS  
 - Quote API  
 
-### The API used for Random Quote Generation:
-https://gist.githubusercontent.com/camperbot/5a022b72e96c4c9585c32bf6a75f62d9/raw/e3c6895ce42069f0ee7e991229064f167fe8ccdc/quotes.json
+### 🌐 API Used for Random Quote Generation  
+
+The application fetches random quotes from the following JSON API:  
+
+🔗 [Quotes JSON API](https://gist.githubusercontent.com/camperbot/5a022b72e96c4c9585c32bf6a75f62d9/raw/e3c6895ce42069f0ee7e991229064f167fe8ccdc/quotes.json)  
+
+This API contains an array of quotes, where each quote is an object with the following structure:  
+
+```json
+{ "quotes" = [
+{
+  "quote": "The purpose of our lives is to be happy.",
+  "author": "Dalai Lama"
+},
+...
+]
+}
+
 
 ## ⚙️ Installation  
 
