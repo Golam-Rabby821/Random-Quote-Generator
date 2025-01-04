@@ -32,7 +32,7 @@ This API contains an array of quotes, where each quote is an object with the fol
 ...
 ]
 }
-
+```
 
 ## ⚙️ Installation  
 
