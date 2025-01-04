@@ -24,12 +24,11 @@ The application fetches random quotes from the following JSON API:
 This API contains an array of quotes, where each quote is an object with the following structure:  
 
 ```json
-{ "quotes" = [
+{ "quotes"= [
 {
   "quote": "The purpose of our lives is to be happy.",
   "author": "Dalai Lama"
 },
-...
 ]
 }
 ```
