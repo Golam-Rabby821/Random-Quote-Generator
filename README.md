@@ -7,8 +7,8 @@ A responsive Random Quote Generator built with **React** and **Tailwind CSS**, f
 - Clean, responsive UI using Tailwind CSS.  
 - Smooth, dynamic updates with React.
 
- ## 🎯 Live Demo
- [Random Quote Generator](https://golam-rabby-random-quote-generator.netlify.app/)
+## 🎯 Live Demo
+<a href="https://golam-rabby-random-quote-generator.netlify.app/" target="_blank">Random Quote Generator</a>
 
 ## 📸 Preview  
 *![image](https://github.com/user-attachments/assets/5293b0a5-ea39-4ae5-99af-7aefcb64cebf)*  
